@@ -67588,6 +67588,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.forgemod:AM:1.0@jar",
+          "name": "Naruto Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 87526575,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Naruto%20mod.jar",
+            "MD5": "cebfe776c256738bab5f99fd4ff2c0b6"
+          }
         }
       ]
     }
