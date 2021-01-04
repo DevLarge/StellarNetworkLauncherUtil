@@ -67590,6 +67590,16 @@
           ]
         },
         {
+          "id": "generated.forgemod:ndm:1.0@jar",
+          "name": "Naruto Dojutsu Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 434733,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Naruto%20Dojutsu.jar",
+            "MD5": "4c23a86a0a93d2f519767e93b1e1ea51"
+          }
+        },
+        {
           "id": "generated.forgemod:AM:1.0@jar",
           "name": "Naruto Mod",
           "type": "ForgeMod",
@@ -67597,6 +67607,16 @@
             "size": 87526575,
             "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Naruto%20mod.jar",
             "MD5": "cebfe776c256738bab5f99fd4ff2c0b6"
+          }
+        },
+        {
+          "id": "generated.forgemod:stardust:1.5@jar",
+          "name": "Naruto Stardust Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4220951,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Naruto%20Stardust.jar",
+            "MD5": "2ea7bbc909216eb2576548356380a9b3"
           }
         }
       ]
