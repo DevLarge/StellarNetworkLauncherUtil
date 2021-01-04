@@ -67313,6 +67313,28 @@
           }
         },
         {
+          "id": "MalisisDoors.jar",
+          "name": "MalisisDoors.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1741669,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/files/mods/MalisisDoors.jar",
+            "MD5": "6d0f129ff9a05f84add5b2209a6d0284",
+            "path": "mods/MalisisDoors.jar"
+          }
+        },
+        {
+          "id": "malisiscore-1.12.2-6.5.1.jar",
+          "name": "malisiscore-1.12.2-6.5.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1939783,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/files/mods/malisiscore-1.12.2-6.5.1.jar",
+            "MD5": "ccc183a97d7b9688a49bf29b61343f49",
+            "path": "mods/malisiscore-1.12.2-6.5.1.jar"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
