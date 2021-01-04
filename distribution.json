@@ -67590,36 +67590,6 @@
           ]
         },
         {
-          "id": "generated.forgemod:Baubles:1.7.10-1.0.1.10@jar",
-          "name": "Baubles",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 95415,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Baubles.jar",
-            "MD5": "0e711d6535970f62d4964edaa26f4623"
-          }
-        },
-        {
-          "id": "generated.forgemod:BiomesOPlenty:2.1.0@jar",
-          "name": "Biomes O' Plenty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5716643,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/BiomesOPlenty.jar",
-            "MD5": "8df77c4c22509c6c4dc5df5b5a766288"
-          }
-        },
-        {
-          "id": "generated.forgemod:Botania:r1.8-249@jar",
-          "name": "Botania",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15977344,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Botania.jar",
-            "MD5": "757cfb6db285068b617c382fc7a1e9ed"
-          }
-        },
-        {
           "id": "generated.forgemod:chisel:0.0.0@jar",
           "name": "Chisel",
           "type": "ForgeMod",
@@ -67627,6 +67597,16 @@
             "size": 6377439,
             "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Chisel.jar",
             "MD5": "6e770ac469cb5e5a5f30e2e398dd1bad"
+          }
+        },
+        {
+          "id": "generated.forgemod:journeymap:1.7.10-5.1.4p2@jar",
+          "name": "JourneyMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1731255,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/JourneyMap.jar",
+            "MD5": "0c3daa19789a67da328437a8635c2cf3"
           }
         },
         {
