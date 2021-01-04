@@ -286,6 +286,26 @@
           }
         },
         {
+          "id": "codechicken.core.launch:CodeChickenCore:2.4.1.102@jar",
+          "name": "CodeChicken Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 105689,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/CodeChickenCore.jar",
+            "MD5": "1b694610f79739a3dfe5028b37df72f1"
+          }
+        },
+        {
+          "id": "codechicken.lib:codechickenlib:3.1.3.313@jar",
+          "name": "CodeChicken Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 645099,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/CodeChickenLib.jar",
+            "MD5": "62d258d0398caf18ed089af3b26337cb"
+          }
+        },
+        {
           "id": "team.chisel:ctm:MC1.12.2-1.0.2.31@jar",
           "name": "CTM",
           "type": "ForgeMod",
