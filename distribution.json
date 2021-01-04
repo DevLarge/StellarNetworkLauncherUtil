@@ -11,7 +11,7 @@
       "id": "BlackClover-1.12.2",
       "name": "BlackClover (1.12.2)",
       "description": "Stellar Network's Black Clover server!",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/BC_Icon.png",
       "version": "1.0.0",
       "address": "167.114.35.8",
       "minecraftVersion": "1.12.2",
@@ -393,26 +393,6 @@
             "size": 653115,
             "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/jei.jar",
             "MD5": "07fd20e0d7197fa48202d2d5b8d34e34"
-          }
-        },
-        {
-          "id": "net.malisis.core:malisiscore:1.12.2-6.5.1-SNAPSHOT@jar",
-          "name": "MalisisCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1939783,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/malisiscore-1.12.2-6.5.1.jar",
-            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
-          }
-        },
-        {
-          "id": "net.malisis.doors:malisisdoors:1.12.2-7.3.0@jar",
-          "name": "MalisisDoors",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1741669,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/malisisdoors-1.12.2-7.3.0.jar",
-            "MD5": "6d0f129ff9a05f84add5b2209a6d0284"
           }
         },
         {
