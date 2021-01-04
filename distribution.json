@@ -67618,6 +67618,16 @@
             "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Naruto%20Stardust.jar",
             "MD5": "2ea7bbc909216eb2576548356380a9b3"
           }
+        },
+        {
+          "id": "generated.forgemod:ColoredFlame:1.0.0@jar",
+          "name": "Colored Flames",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 851877,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/StellarFire.jar",
+            "MD5": "13c1fb0bbd50eb4c01d4725962741802"
+          }
         }
       ]
     }
