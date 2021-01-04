@@ -296,16 +296,6 @@
           }
         },
         {
-          "id": "team.chisel:ctm:MC1.12.2-1.0.2.31@jar",
-          "name": "CTM",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 199045,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/CTM-MC1.12.2-1.0.2.31.jar",
-            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
-          }
-        },
-        {
           "id": "lumien.custombackgrounds:custombackgrounds:1.1.1@jar",
           "name": "Custom Backgrounds",
           "type": "ForgeMod",
@@ -313,16 +303,6 @@
             "size": 4140,
             "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/CustomBackgrounds.jar",
             "MD5": "b0f20b60bba201bbcf63a6d18cd191db"
-          }
-        },
-        {
-          "id": "alexiil.mc.mod.load:customloadingscreen:1.12.2-1.4.1@jar",
-          "name": "Custom Loading Screen",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 521135,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/CustomLoadingScreen.jar",
-            "MD5": "e79a12518adfc989431413a20ddf3059"
           }
         },
         {
@@ -433,16 +413,6 @@
             "size": 169483,
             "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/PTRLib-1.0.4.jar",
             "MD5": "7cdde85216395abe430a7ff185650370"
-          }
-        },
-        {
-          "id": "lumien.resourceloader:resourceloader:1.5.3@jar",
-          "name": "Resource Loader",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 16612,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/forgemods/required/ResourceLoader.jar",
-            "MD5": "51141e882f96ce756b9b3d25f2acdf57"
           }
         },
         {
@@ -15777,6 +15747,17 @@
           }
         },
         {
+          "id": "CTM-MC1.12.2-1.0.2.31.jar",
+          "name": "CTM-MC1.12.2-1.0.2.31.jar",
+          "type": "File",
+          "artifact": {
+            "size": 199045,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/files/CTM-MC1.12.2-1.0.2.31.jar",
+            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864",
+            "path": "CTM-MC1.12.2-1.0.2.31.jar"
+          }
+        },
+        {
           "id": "CodeChickenCore.jar",
           "name": "CodeChickenCore.jar",
           "type": "File",
@@ -15785,6 +15766,28 @@
             "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/files/CodeChickenCore.jar",
             "MD5": "1b694610f79739a3dfe5028b37df72f1",
             "path": "CodeChickenCore.jar"
+          }
+        },
+        {
+          "id": "CustomLoadingScreen.jar",
+          "name": "CustomLoadingScreen.jar",
+          "type": "File",
+          "artifact": {
+            "size": 521135,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/files/CustomLoadingScreen.jar",
+            "MD5": "e79a12518adfc989431413a20ddf3059",
+            "path": "CustomLoadingScreen.jar"
+          }
+        },
+        {
+          "id": "ResourceLoader.jar",
+          "name": "ResourceLoader.jar",
+          "type": "File",
+          "artifact": {
+            "size": 16612,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/BlackClover-1.12.2/files/ResourceLoader.jar",
+            "MD5": "51141e882f96ce756b9b3d25f2acdf57",
+            "path": "ResourceLoader.jar"
           }
         },
         {
