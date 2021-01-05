@@ -67610,6 +67610,16 @@
           }
         },
         {
+          "id": "generated.forgemod:CarpentersBlocks:3.3.8.1@jar",
+          "name": "Carpenter's Blocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 510164,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Carpenters.jar",
+            "MD5": "796185b3d2cfd50f74955346ba92614c"
+          }
+        },
+        {
           "id": "generated.forgemod:chisel:0.0.0@jar",
           "name": "Chisel",
           "type": "ForgeMod",
