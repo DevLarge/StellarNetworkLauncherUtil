@@ -67670,6 +67670,16 @@
           }
         },
         {
+          "id": "generated.forgemod:CustomMainMenu:1.9.2@jar",
+          "name": "Custom Main Menu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115292,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/CustomMainMenu.jar",
+            "MD5": "7d0a3079e02fc07cd19a9558227e878b"
+          }
+        },
+        {
           "id": "generated.forgemod:customnpcs:1.7.10@jar",
           "name": "CustomNpcs",
           "type": "ForgeMod",
