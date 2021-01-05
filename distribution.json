@@ -67700,16 +67700,6 @@
           }
         },
         {
-          "id": "generated.forgemod:minecraftrp:0.0.0@jar",
-          "name": "MinecraftRP",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6156,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/MinecraftRP.jar",
-            "MD5": "ac5a14869b9c5c655856bf5b22001d40"
-          }
-        },
-        {
           "id": "generated.forgemod:moreblocks:0.0.0@jar",
           "name": "MoreBlocks",
           "type": "ForgeMod",
