@@ -67630,6 +67630,26 @@
           }
         },
         {
+          "id": "generated.forgemod:gvc:0.6.1@jar",
+          "name": "�aGliby's�f Voice Chat Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 399246,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/GlibysVC.jar",
+            "MD5": "0efe8c9aaa45b15f776cb49136860697"
+          }
+        },
+        {
+          "id": "generated.forgemod:ironchests:0.0.0@jar",
+          "name": "IronChests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 158100,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/IronChests.jar",
+            "MD5": "f5976d941ad460445a59aa8f2fd696b0"
+          }
+        },
+        {
           "id": "generated.forgemod:journeymap:1.7.10-5.1.4p2@jar",
           "name": "JourneyMap",
           "type": "ForgeMod",
