@@ -67620,6 +67620,16 @@
           }
         },
         {
+          "id": "generated.forgemod:Botania:r1.8-249@jar",
+          "name": "Botania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15977344,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Botania.jar",
+            "MD5": "757cfb6db285068b617c382fc7a1e9ed"
+          }
+        },
+        {
           "id": "generated.forgemod:betterbuilderswands:0.6.1@jar",
           "name": "Better Builder's Wands",
           "type": "ForgeMod",
