@@ -67660,6 +67660,16 @@
           }
         },
         {
+          "id": "codechicken.core.launch:codechickencore:1.7.10-1.0.7.47-universal@jar",
+          "name": "CodeChickenCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145782,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+            "MD5": "07690caf86ecf79739852154f5e44750"
+          }
+        },
+        {
           "id": "cofh.asm:CoFHCore:3.1.4@jar",
           "name": "CoFH Core",
           "type": "ForgeMod",
