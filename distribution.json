@@ -67730,16 +67730,6 @@
           }
         },
         {
-          "id": "generated.forgemod:kinetic anti-cheat:7.3.1@jar",
-          "name": "Kinetic anti-cheat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 13803,
-            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/KAC.jar",
-            "MD5": "7e3881cfb5ad2826956c60a8c49b45cf"
-          }
-        },
-        {
           "id": "generated.forgemod:magicalcrops:4.0.0_PUBLIC_BETA_3@jar",
           "name": "Magical Crops",
           "type": "ForgeMod",
