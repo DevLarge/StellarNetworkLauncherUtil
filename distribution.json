@@ -67610,6 +67610,16 @@
           }
         },
         {
+          "id": "generated.forgemod:BiomesOPlenty:2.1.0@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5716643,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/BiomesOPlenty.jar",
+            "MD5": "8df77c4c22509c6c4dc5df5b5a766288"
+          }
+        },
+        {
           "id": "generated.forgemod:betterbuilderswands:0.6.1@jar",
           "name": "Better Builder's Wands",
           "type": "ForgeMod",
