@@ -67690,6 +67690,16 @@
           }
         },
         {
+          "id": "generated.forgemod:LunatriusCore:1.1.2.21@jar",
+          "name": "LunatriusCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 57644,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/LunaCore.jar",
+            "MD5": "435b2890f90cc256e0045eb559512eaf"
+          }
+        },
+        {
           "id": "generated.forgemod:magicalcrops:4.0.0_PUBLIC_BETA_3@jar",
           "name": "Magical Crops",
           "type": "ForgeMod",
