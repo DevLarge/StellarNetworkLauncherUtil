@@ -67810,6 +67810,16 @@
           }
         },
         {
+          "id": "lumien.resourceloader.asm:ResourceLoader:1.3@jar",
+          "name": "Resource Loader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13037,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/ResourceLoader.jar",
+            "MD5": "8139e4169ad21a531110deb371c2e6f3"
+          }
+        },
+        {
           "id": "generated.forgemod:ColoredFlame:1.0.0@jar",
           "name": "Colored Flames",
           "type": "ForgeMod",
