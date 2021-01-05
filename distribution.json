@@ -67710,6 +67710,16 @@
           }
         },
         {
+          "id": "generated.forgemod:Mantle:0.3.2.jenkins184@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 196807,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Mantle.jar",
+            "MD5": "3f360f0fb92cfb252235fe99ddfc7495"
+          }
+        },
+        {
           "id": "generated.forgemod:moreblocks:0.0.0@jar",
           "name": "MoreBlocks",
           "type": "ForgeMod",
