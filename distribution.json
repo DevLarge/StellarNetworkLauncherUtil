@@ -67630,6 +67630,16 @@
           }
         },
         {
+          "id": "generated.forgemod:DamageIndicatorsMod:3.3.2@jar",
+          "name": "Damage Indicators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 283244,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/DamageIndicators.jar",
+            "MD5": "977ecf787685d114ace82f498552dd36"
+          }
+        },
+        {
           "id": "generated.forgemod:gvc:0.6.1@jar",
           "name": "�aGliby's�f Voice Chat Mod",
           "type": "ForgeMod",
@@ -67660,6 +67670,16 @@
           }
         },
         {
+          "id": "generated.forgemod:moreblocks:0.0.0@jar",
+          "name": "MoreBlocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7722,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/MoreBlocks.jar",
+            "MD5": "2f144ef98aec54c0407067c051e2bd2e"
+          }
+        },
+        {
           "id": "generated.forgemod:ndm:1.0@jar",
           "name": "Naruto Dojutsu Mod",
           "type": "ForgeMod",
@@ -67687,6 +67707,16 @@
             "size": 4220951,
             "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Naruto%20Stardust.jar",
             "MD5": "2ea7bbc909216eb2576548356380a9b3"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.7.10_HD_U_E7@jar",
+          "name": "OptiFine 1.7.10_HD_U_E7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1774165,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.7.10/forgemods/required/Optifine.jar",
+            "MD5": "445062f5aaf982c36c72d90530c26850"
           }
         },
         {
