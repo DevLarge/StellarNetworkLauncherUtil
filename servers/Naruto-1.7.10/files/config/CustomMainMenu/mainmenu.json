@@ -1,0 +1,248 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "cmm:Logo.png",
+            "posX" : -140,
+            "posY" : 35,
+            "width" : 300,
+            "height" : 65,
+            "alignment" : "top_center"
+        }
+		
+    },
+    
+    "buttons":
+    {  
+        "multiplayer":
+        {	
+            "text" : "Official Server",
+            "posX" : -200,
+            "posY" : 72,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
+			"texture":"cmm:button.png",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "167.114.35.8"
+            }
+			
+        },
+        
+        "mods":
+        {
+            "text" : "Server Mods",
+            "posX" : -200,
+            "posY" : 120,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
+			"texture":"cmm:button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+			
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -200,
+            "posY" : 96,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
+			"texture":"cmm:button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+			
+        },
+        
+        "quit":
+        {
+            "text" : "Log Off",
+			"hoverText" : "Cya Next Time!",
+            "posX" : -200,
+            "posY" : 144,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
+			"texture":"cmm:button.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+			
+        },
+		
+		"openlink":
+        {
+            "text" : "Discord",
+			"hoverText" : "Click to Join!",
+            "posX" : 95,
+            "posY" : 72,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
+			"texture":"cmm:button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/PG2sVzV"
+            }
+			
+        },
+		
+		"openlink2":
+        {
+            "text" : "Website",
+			"hoverText" : "Make sure to sign up!",
+            "posX" : 95,
+            "posY" : 96,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
+			"texture":"cmm:button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://stellarnetworks.enjin.com/"
+            }
+			
+        },
+		
+		"openlink3":
+        {
+            "text" : "Store",
+			"hoverText" : "Check it out!",
+            "posX" : 95,
+            "posY" : 120,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
+			"texture":"cmm:button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://narutoclashstellar.buycraft.net/"
+            }
+			
+        },
+		
+		"openlink4":
+        {
+            "text" : "Important Info!",
+			"hoverText" : "Leave a like and follow!",
+            "posX" : 95,
+            "posY" : 144,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
+			"texture":"cmm:button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.technicpack.net/modpack/narutotm-clash-stellar.1415699"
+            }
+			
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -200,
+            "posY" : 4800,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 100,
+			"texture" : "cmm:refresh.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+			
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -178,
+            "posY" : 4800,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 20,
+			"imageHeight" : 20,
+            "texture" : "cmm:language.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        
+        		
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -100,
+            "color" : -1,
+            "alignment" : ""
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 180,
+            "posY" : 2000,
+            "color" : 250,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "background":
+        {
+            "image" : "cmm:background.jpg",
+            "mode" : "fill"
+        }
+    }
+}
