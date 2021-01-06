@@ -1,11 +1,6 @@
 {
   "$schema": "file:///D:/A%20OSCAR/Coding/Java/StellarNetworkLauncher/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/RSS.rss",
-    "discord": {
-      "clientId": "796417955327639622",
-      "smallImageText": "Stellar Network",
-      "smallImageKey": "SealCircle"
-    }
+    "rss": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/RSS.rss"
   }
 }
