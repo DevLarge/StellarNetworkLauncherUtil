@@ -3,9 +3,9 @@
   "meta": {
     "rss": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/RSS.rss",
     "discord": {
-      "clientId": "244092155264630785",
+      "clientId": "796417955327639622",
       "smallImageText": "Stellar Network",
-      "smallImageKey": "seal-circle"
+      "smallImageKey": "SealCircle"
     }
   }
 }

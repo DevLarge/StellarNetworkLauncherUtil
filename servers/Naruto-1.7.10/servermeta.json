@@ -6,9 +6,9 @@
     "description": "Stellar Network's Naruto server!",
     "address": "167.114.35.8",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "Black Clover",
+      "largeImageText": "Black Clover Stellar",
+      "largeImageKey": "SealCircle"
     },
     "mainServer": true,
     "autoconnect": false
