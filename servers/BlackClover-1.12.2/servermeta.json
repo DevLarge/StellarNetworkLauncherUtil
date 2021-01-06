@@ -4,11 +4,11 @@
     "version": "1.0.0",
     "name": "BlackClover (1.12.2)",
     "description": "Stellar Network's Black Clover server!",
-    "address": "167.114.35.8",
+    "address": "144.217.248.11:25588",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "Black Clover",
+      "largeImageText": "Black Clover Stellar",
+      "largeImageKey": "blackcloverimage"
     },
     "mainServer": true,
     "autoconnect": false

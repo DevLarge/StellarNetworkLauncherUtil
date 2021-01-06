@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "Naruto (1.7.10)",
     "description": "Stellar Network's Naruto server!",
-    "address": "167.114.35.8",
+    "address": "54.39.250.69:25582",
     "discord": {
       "shortId": "Naruto",
       "largeImageText": "Naruto Stellar",
