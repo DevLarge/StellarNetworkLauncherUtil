@@ -4,8 +4,8 @@
     "rss": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/RSS.rss",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "smallImageText": "Stellar Network",
+      "smallImageKey": "seal-circle"
     }
   }
 }
