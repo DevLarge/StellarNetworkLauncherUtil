@@ -28,8 +28,8 @@
 			"texture":"cmm:button.png",
             "action" : 
             {
-                "type" : "openGui",
-                "gui" : "multiplayer"
+                "type" : "connectToServer",
+                "ip" : 167.114.35.8"
             }
         },
         
