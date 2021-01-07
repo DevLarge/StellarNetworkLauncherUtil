@@ -1,1 +1,1 @@
-large gay
+fuck you typical
