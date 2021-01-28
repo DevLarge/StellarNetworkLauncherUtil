@@ -4,12 +4,13 @@
         "title":
         {
             "image" : "cmm:Logo.png",
-            "posX" : -200,
+            "posX" : -140,
             "posY" : 35,
-            "width" : 230,
+            "width" : 300,
             "height" : 65,
             "alignment" : "top_center"
         }
+		
     },
     
     "buttons":
@@ -23,14 +24,15 @@
             "height" : 20,
 			"imageWidth": 251,
 			"imageHeight": 46,
-			"normalTextColor": 16711680,
-            "hoverTextColor": 0,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
 			"texture":"cmm:button.png",
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "144.217.248.11:25588"
+                "ip" : "54.39.250.69:25582"
             }
+			
         },
         
         "mods":
@@ -42,14 +44,15 @@
             "height" : 20,
 			"imageWidth": 251,
 			"imageHeight": 46,
-			"normalTextColor": 16711680,
-            "hoverTextColor": 0,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
 			"texture":"cmm:button.png",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "mods"
             }
+			
         },
             
         "options":
@@ -61,14 +64,15 @@
             "height" : 20,
 			"imageWidth": 251,
 			"imageHeight": 46,
-			"normalTextColor": 16711680,
-            "hoverTextColor": 0,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
 			"texture":"cmm:button.png",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "options"
             }
+			
         },
         
         "quit":
@@ -81,16 +85,17 @@
             "height" : 20,
 			"imageWidth": 251,
 			"imageHeight": 46,
-			"normalTextColor": 16711680,
-            "hoverTextColor": 0,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
 			"texture":"cmm:button.png",
             "action" : 
             {
                 "type" : "quit"
             }
+			
         },
 		
-		"Discord":
+		"openlink":
         {
             "text" : "Discord",
 			"hoverText" : "Click to Join!",
@@ -100,17 +105,18 @@
             "height" : 20,
 			"imageWidth": 251,
 			"imageHeight": 46,
-			"normalTextColor": 16711680,
-            "hoverTextColor": 0,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
 			"texture":"cmm:button.png",
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "https://discord.gg/XmreeArX9y"
+                "link" : "https://discord.gg/PG2sVzV"
             }
+			
         },
 		
-		"Website":
+		"openlink2":
         {
             "text" : "Website",
 			"hoverText" : "Make sure to sign up!",
@@ -120,17 +126,18 @@
             "height" : 20,
 			"imageWidth": 251,
 			"imageHeight": 46,
-			"normalTextColor": 16711680,
-            "hoverTextColor": 0,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
 			"texture":"cmm:button.png",
             "action" : 
             {
                 "type" : "openLink",
                 "link" : "https://stellarnetworks.enjin.com/"
             }
+			
         },
 		
-		"Store":
+		"openlink3":
         {
             "text" : "Store",
 			"hoverText" : "Check it out!",
@@ -140,17 +147,18 @@
             "height" : 20,
 			"imageWidth": 251,
 			"imageHeight": 46,
-			"normalTextColor": 16711680,
-            "hoverTextColor": 0,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
 			"texture":"cmm:button.png",
             "action" : 
             {
                 "type" : "openLink",
-                "link" : ""
+                "link" : "https://narutoclashstellar.buycraft.net/"
             }
+			
         },
 		
-		"Technic":
+		"openlink4":
         {
             "text" : "Important Info!",
 			"hoverText" : "Leave a like and follow!",
@@ -160,21 +168,22 @@
             "height" : 20,
 			"imageWidth": 251,
 			"imageHeight": 46,
-			"normalTextColor": 16711680,
-            "hoverTextColor": 0,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
 			"texture":"cmm:button.png",
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "https://www.technicpack.net/modpack/black-clover-u-stellar.1720067"
+                "link" : "https://www.technicpack.net/modpack/narutotm-clash-stellar.1415699"
             }
+			
         },
         
         "language":
         {
             "text" : "",
             "posX" : -200,
-            "posY" : 48,
+            "posY" : 4800,
             "width" : 20,
             "height" : 20,
 			"imageWidth" : 100,
@@ -185,13 +194,14 @@
                 "type" : "openGui",
                 "gui" : "languages"
             }
+			
         },
         
         "refresh":
         {
             "text" : "",
             "posX" : -178,
-            "posY" : 48,
+            "posY" : 4800,
             "width" : 20,
             "height" : 20,
 			"imageWidth" : 20,
@@ -204,20 +214,31 @@
         }
     },
     
-    "labels":
+    "texts":
     {
+        
+        		
         "fml":
         {
             "text" : "",
-            "posX" : 500,
-            "posY" : -40,
+            "posX" : 2,
+            "posY" : -100,
             "color" : -1,
-            "alignment" : "bottom_left"
+            "alignment" : ""
         }
     },
     
     "other":
-    {	
+    {
+        "splash-text":
+        {
+            "posX" : 180,
+            "posY" : 2000,
+            "color" : 250,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
         "background":
         {
             "image" : "cmm:background.jpg",
