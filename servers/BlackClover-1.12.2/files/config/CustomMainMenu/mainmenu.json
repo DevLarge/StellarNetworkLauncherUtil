@@ -4,9 +4,9 @@
         "title":
         {
             "image" : "cmm:logo.png",
-            "posX" : -200,
-            "posY" : 35,
-            "width" : 200,
+            "posX" : -115,
+            "posY" : 30,
+            "width" : 250,
             "height" : 50,
             "alignment" : "top_center"
         }
@@ -16,7 +16,7 @@
     {  
         "multiplayer":
         {	
-            "text" : "Official Server",
+            "text" : "",
             "posX" : -200,
             "posY" : 72,
             "width" : 120,
@@ -25,17 +25,17 @@
 			"imageHeight": 46,
 			"normalTextColor": 16711680,
             "hoverTextColor": 0,
-			"texture":"cmm:button.png",
+			"texture":"cmm:Button_Official.png",
             "action" : 
             {
-                "type" : "connectToServer",
-                "ip" : "91.208.92.70:25567"
+                "type" : "openGui",
+                "gui" : "multiplayer"
             }
         },
         
         "mods":
         {
-            "text" : "Server Mods",
+            "text" : "",
             "posX" : -200,
             "posY" : 120,
             "width" : 120,
@@ -44,7 +44,7 @@
 			"imageHeight": 46,
 			"normalTextColor": 16711680,
             "hoverTextColor": 0,
-			"texture":"cmm:button.png",
+			"texture":"cmm:Button_Mods.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -54,7 +54,7 @@
             
         "options":
         {
-            "text" : "menu.options",
+            "text" : "",
             "posX" : -200,
             "posY" : 96,
             "width" : 120,
@@ -63,7 +63,7 @@
 			"imageHeight": 46,
 			"normalTextColor": 16711680,
             "hoverTextColor": 0,
-			"texture":"cmm:button.png",
+			"texture":"cmm:Button_Options.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -73,7 +73,7 @@
         
         "quit":
         {
-            "text" : "Log Off",
+            "text" : "",
 			"hoverText" : "Cya Next Time!",
             "posX" : -200,
             "posY" : 144,
@@ -83,7 +83,7 @@
 			"imageHeight": 46,
 			"normalTextColor": 16711680,
             "hoverTextColor": 0,
-			"texture":"cmm:button.png",
+			"texture":"cmm:Button_Log.png",
             "action" : 
             {
                 "type" : "quit"
@@ -92,7 +92,7 @@
 		
 		"Discord":
         {
-            "text" : "Discord",
+            "text" : "",
 			"hoverText" : "Click to Join!",
             "posX" : 95,
             "posY" : 72,
@@ -102,17 +102,17 @@
 			"imageHeight": 46,
 			"normalTextColor": 16711680,
             "hoverTextColor": 0,
-			"texture":"cmm:button.png",
+			"texture":"cmm:Button_Discord.png",
             "action" : 
             {
                 "type" : "openLink",
-                "link" : ""
+                "link" : "https://discord.gg/JKjkt6tBSn"
             }
         },
 		
 		"Website":
         {
-            "text" : "Website",
+            "text" : "",
 			"hoverText" : "Make sure to sign up!",
             "posX" : 95,
             "posY" : 96,
@@ -122,7 +122,7 @@
 			"imageHeight": 46,
 			"normalTextColor": 16711680,
             "hoverTextColor": 0,
-			"texture":"cmm:button.png",
+			"texture":"cmm:Button_Website.png",
             "action" : 
             {
                 "type" : "openLink",
@@ -132,7 +132,7 @@
 		
 		"Store":
         {
-            "text" : "Store",
+            "text" : "",
 			"hoverText" : "Check it out!",
             "posX" : 95,
             "posY" : 120,
@@ -142,17 +142,17 @@
 			"imageHeight": 46,
 			"normalTextColor": 16711680,
             "hoverTextColor": 0,
-			"texture":"cmm:button.png",
+			"texture":"cmm:Button_Store.png",
             "action" : 
             {
                 "type" : "openLink",
-                "link" : ""
+                "link" : "https://stellarmcnetwork.buycraft.net/"
             }
         },
 		
 		"Technic":
         {
-            "text" : "Important Info!",
+            "text" : "",
 			"hoverText" : "Leave a like and follow!",
             "posX" : 95,
             "posY" : 144,
@@ -162,7 +162,7 @@
 			"imageHeight": 46,
 			"normalTextColor": 16711680,
             "hoverTextColor": 0,
-			"texture":"cmm:button.png",
+			"texture":"cmm:Button_Info.png",
             "action" : 
             {
                 "type" : "openLink",
@@ -220,7 +220,7 @@
     {	
         "background":
         {
-            "image" : "cmm:background.jpg",
+            "image" : "cmm:background.png",
             "mode" : "fill"
         }
     }
