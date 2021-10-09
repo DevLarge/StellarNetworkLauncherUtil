@@ -74,7 +74,7 @@
         "quit":
         {
             "text" : "",
-			"hoverText" : "Cya Next Time!",
+			"hoverText" : "",
             "posX" : -200,
             "posY" : 144,
             "width" : 120,
@@ -93,7 +93,7 @@
 		"Discord":
         {
             "text" : "",
-			"hoverText" : "Click to Join!",
+			"hoverText" : "",
             "posX" : 95,
             "posY" : 72,
             "width" : 120,
@@ -113,7 +113,7 @@
 		"Website":
         {
             "text" : "",
-			"hoverText" : "Make sure to sign up!",
+			"hoverText" : "",
             "posX" : 95,
             "posY" : 96,
             "width" : 120,
@@ -133,7 +133,7 @@
 		"Store":
         {
             "text" : "",
-			"hoverText" : "Check it out!",
+			"hoverText" : "",
             "posX" : 95,
             "posY" : 120,
             "width" : 120,
@@ -153,7 +153,7 @@
 		"Technic":
         {
             "text" : "",
-			"hoverText" : "Leave a like and follow!",
+			"hoverText" : "",
             "posX" : 95,
             "posY" : 144,
             "width" : 120,
