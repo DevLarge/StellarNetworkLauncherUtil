@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/A%20OSCAR/GitHub/StellarNetworkLauncherUtil/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Naruto Clash (1.12.2)",
+    "description": "Stellar Network's 1.12.2 Naruto server!",
+    "address": "91.208.92.70:25567",
+    "discord": {
+      "shortId": "Naruto",
+      "largeImageText": "Naruto Stellar",
+      "largeImageKey": "narutoimage"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2854"
+  },
+  "untrackedFiles": []
+}

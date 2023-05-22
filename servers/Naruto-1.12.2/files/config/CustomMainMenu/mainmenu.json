@@ -1,0 +1,206 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "cmm:Logo.png",
+            "posX" : -140,
+            "posY" : 35,
+            "width" : 300,
+            "height" : 65,
+            "alignment" : "top_center"
+        }
+		
+    },
+    
+    "buttons":
+    {  
+        "multiplayer":
+        {	
+            "text" : "",
+            "posX" : -200,
+            "posY" : 72,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":0,
+            "hoverTextColor":0 ,
+			"texture":"cmm:Button_01.png",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "91.208.92.70:25568"
+            }
+        },
+        
+        "options":
+        {
+            "text" : "",
+            "posX" : -200,
+            "posY" : 96,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":0,
+            "hoverTextColor":0,
+			"texture":"cmm:Button_03.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+			
+        },
+        
+        "quit":
+        {
+            "text" : "",
+			"hoverText" : "",
+            "posX" : -200,
+            "posY" : 120,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":0,
+            "hoverTextColor":0,
+			"texture":"cmm:Button_04.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+			
+        },
+		
+		"openlink":
+        {
+            "text" : "",
+			"hoverText" : "",
+            "posX" : 95,
+            "posY" : 72,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":0,
+            "hoverTextColor":0,
+			"texture":"cmm:Button_05.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/PG2sVzV"
+            }
+			
+        },
+		
+		"openlink3":
+        {
+            "text" : "",
+			"hoverText" : "",
+            "posX" : 95,
+            "posY" : 96,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":0,
+            "hoverTextColor":0,
+			"texture":"cmm:Button_07.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://stellarmcnetwork.buycraft.net/"
+            }
+			
+        },
+		
+		"openlink4":
+        {
+            "text" : "",
+			"hoverText" : "",
+            "posX" : 95,
+            "posY" : 120,
+            "width" : 120,
+            "height" : 20,
+			"imageWidth": 251,
+			"imageHeight": 46,
+			"normalTextColor":10189824,
+            "hoverTextColor":16776960,
+			"texture":"cmm:Button_08.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.technicpack.net/modpack/naruto-clash-stellar-v2.1897607"
+            }
+			
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -200,
+            "posY" : 4800,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 100,
+			"texture" : "cmm:refresh.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+			
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -178,
+            "posY" : 4800,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 20,
+			"imageHeight" : 20,
+            "texture" : "cmm:language.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        
+        		
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -100,
+            "color" : -1,
+            "alignment" : ""
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 180,
+            "posY" : 2000,
+            "color" : 250,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "background":
+        {
+            "image" : "cmm:background.jpg",
+            "mode" : "fill"
+        }
+    }
+}
