@@ -13,7 +13,7 @@
       "description": "Stellar Network's 1.12.2 Naruto server!",
       "icon": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.12.2/Naruto_Icon.png",
       "version": "1.0.0",
-      "address": "91.208.92.70:25567",
+      "address": "91.208.92.70:25568",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "Naruto",
