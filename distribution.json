@@ -556,6 +556,16 @@
           }
         },
         {
+          "id": "net.mcreator.narutomoditem:narutomoditems:1.0.0@jar",
+          "name": "NarutoMod Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1220946,
+            "url": "https://raw.githubusercontent.com/DevLarge/StellarNetworkLauncherUtil/master/servers/Naruto-1.12.2/forgemods/required/NarutoModItems2.jar",
+            "MD5": "f440165ca5a2ff10a55f86b771caa382"
+          }
+        },
+        {
           "id": "ru.fewizz:neid:1.5.4.4@jar",
           "name": "NotEnoughIDs",
           "type": "ForgeMod",
